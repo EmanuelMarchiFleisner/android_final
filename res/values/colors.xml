@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="borda_imagem">#666666</color>
+    <color name="linha_par">#999999</color>
+    <color name="linha_impar">#cccccc</color>
+</resources>
